@@ -1,0 +1,12 @@
+C:\Users\opmij\source\repos\SimplePaint\SimplePaint\bin\Debug\SimplePaint.exe.config
+C:\Users\opmij\source\repos\SimplePaint\SimplePaint\bin\Debug\SimplePaint.exe
+C:\Users\opmij\source\repos\SimplePaint\SimplePaint\bin\Debug\SimplePaint.pdb
+C:\Users\opmij\source\repos\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csprojAssemblyReference.cache
+C:\Users\opmij\source\repos\SimplePaint\SimplePaint\obj\Debug\SimplePaint.Form1.resources
+C:\Users\opmij\source\repos\SimplePaint\SimplePaint\obj\Debug\SimplePaint.Properties.Resources.resources
+C:\Users\opmij\source\repos\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csproj.GenerateResource.cache
+C:\Users\opmij\source\repos\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csproj.CoreCompileInputs.cache
+C:\Users\opmij\source\repos\SimplePaint\SimplePaint\obj\Debug\SimplePaint.exe
+C:\Users\opmij\source\repos\SimplePaint\SimplePaint\obj\Debug\SimplePaint.pdb
+C:\Users\opmij\source\repos\SimplePaint\SimplePaint\bin\Debug\Guna.UI.dll
+C:\Users\opmij\source\repos\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csproj.CopyComplete
